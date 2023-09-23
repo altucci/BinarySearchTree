@@ -1,0 +1,184 @@
+tree.InsertValue(21);
+Console.Write(21 + " ");
+
+tree.InsertValue(16);
+Console.Write(16 + " ");
+
+tree.InsertValue(36);
+Console.Write(36 + " ");
+
+tree.InsertValue(71);
+Console.Write(71 + " ");
+
+tree.InsertValue(20);
+Console.Write(20 + " ");
+
+tree.InsertValue(74);
+Console.Write(74 + " ");
+
+tree.InsertValue(71);
+Console.Write(71 + " ");
+
+tree.InsertValue(27);
+Console.Write(27 + " ");
+
+tree.InsertValue(47);
+Console.Write(47 + " ");
+
+tree.InsertValue(7);
+Console.Write(7 + " ");
+
+tree.InsertValue(11);
+Console.Write(11 + " ");
+
+tree.InsertValue(40);
+Console.Write(40 + " ");
+
+tree.InsertValue(40);
+Console.Write(40 + " ");
+
+tree.InsertValue(54);
+Console.Write(54 + " ");
+
+tree.InsertValue(61);
+Console.Write(61 + " ");
+
+tree.InsertValue(9);
+Console.Write(9 + " ");
+
+tree.InsertValue(19);
+Console.Write(19 + " ");
+
+tree.InsertValue(7);
+Console.Write(7 + " ");
+
+tree.InsertValue(13);
+Console.Write(13 + " ");
+
+tree.InsertValue(40);
+Console.Write(40 + " ");
+
+tree.InsertValue(21);
+Console.Write(21 + " ");
+
+tree.InsertValue(5);
+Console.Write(5 + " ");
+
+tree.InsertValue(28);
+Console.Write(28 + " ");
+
+tree.InsertValue(19);
+Console.Write(19 + " ");
+
+tree.InsertValue(47);
+Console.Write(47 + " ");
+
+tree.InsertValue(46);
+Console.Write(46 + " ");
+
+tree.InsertValue(33);
+Console.Write(33 + " ");
+
+tree.InsertValue(36);
+Console.Write(36 + " ");
+
+tree.InsertValue(32);
+Console.Write(32 + " ");
+
+tree.InsertValue(13);
+Console.Write(13 + " ");
+
+tree.InsertValue(64);
+Console.Write(64 + " ");
+
+tree.InsertValue(43);
+Console.Write(43 + " ");
+
+tree.InsertValue(72);
+Console.Write(72 + " ");
+
+tree.InsertValue(37);
+Console.Write(37 + " ");
+
+tree.InsertValue(50);
+Console.Write(50 + " ");
+
+tree.InsertValue(55);
+Console.Write(55 + " ");
+
+tree.InsertValue(35);
+Console.Write(35 + " ");
+
+tree.InsertValue(47);
+Console.Write(47 + " ");
+
+tree.InsertValue(77);
+Console.Write(77 + " ");
+
+tree.InsertValue(4);
+Console.Write(4 + " ");
+
+tree.InsertValue(43);
+Console.Write(43 + " ");
+
+tree.InsertValue(32);
+Console.Write(32 + " ");
+
+tree.InsertValue(32);
+Console.Write(32 + " ");
+
+tree.InsertValue(36);
+Console.Write(36 + " ");
+
+tree.InsertValue(53);
+Console.Write(53 + " ");
+
+tree.InsertValue(5);
+Console.Write(5 + " ");
+
+tree.InsertValue(46);
+Console.Write(46 + " ");
+
+tree.InsertValue(4);
+Console.Write(4 + " ");
+
+tree.InsertValue(60);
+Console.Write(60 + " ");
+
+tree.InsertValue(68);
+Console.Write(68 + " ");
+
+tree.InsertValue(75);
+Console.Write(75 + " ");
+
+tree.InsertValue(18);
+Console.Write(18 + " ");
+
+tree.InsertValue(8);
+Console.Write(8 + " ");
+
+tree.InsertValue(51);
+Console.Write(51 + " ");
+
+tree.InsertValue(28);
+Console.Write(28 + " ");
+
+tree.InsertValue(73);
+Console.Write(73 + " ");
+
+tree.InsertValue(54);
+Console.Write(54 + " ");
+
+tree.InsertValue(57);
+Console.Write(57 + " ");
+
+tree.InsertValue(67);
+Console.Write(67 + " ");
+
+tree.InsertValue(59);
+Console.Write(59 + " ");
+
+21,16,36,71,20,74,71,27,47,7,11,40,40,54,61,9,19,7,13,40,21,5,28,19,47,46,33,36,32,13,64,43,72,37,50,55,35,47,77,4,43,32,32,36,53,5,46,4,60,68,75,18,8,51,28,73,54,57,67,59
+
+---------------------------------------------------------------------------------------------
+
